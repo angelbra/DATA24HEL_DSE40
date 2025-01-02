@@ -1,5 +1,5 @@
 title,genre,developer,critic_score,total_sales,release_date
-Grand Theft Auto V,Action;Role-Playing,Rockstar North,9.366666666666667,48.43,2013-09-17
+Grand Theft Auto V,Action,Rockstar North,9.366666666666667,48.43,2013-09-17
 Call of Duty: Black Ops,Shooter,Treyarch,8.1,30.990000000000002,2010-11-09
 Call of Duty: Modern Warfare 3,Shooter,Infinity Ward,7.5,30.71,2011-11-08
 Call of Duty: Ghosts,Shooter,Infinity Ward,7.833333333333333,28.8,2013-11-05
@@ -10,7 +10,7 @@ Call of Duty: Advanced Warfare,Shooter,Sledgehammer Games,8.72,21.78,2014-11-04
 The Elder Scrolls V: Skyrim,Role-Playing,Bethesda Game Studios,9.025,20.51,2011-11-11
 Call of Duty 4: Modern Warfare,Shooter,Infinity Ward,8.925,18.33,2007-11-05
 Battlefield 3,Shooter,Dice,8.633333333333333,17.32,2011-10-25
-Guitar Hero III: Legends of Rock,Misc;Music,BudCat Creations,8.424999999999999,16.36,2007-10-28
+Guitar Hero III: Legends of Rock,Misc,BudCat Creations,8.424999999999999,16.36,2007-10-28
 FIFA 15,Sports,EA Canada,7.359999999999999,16.28,2014-09-23
 Grand Theft Auto: Vice City,Action,Rockstar North,9.3,16.189999999999998,2002-10-28
 FIFA 18,Sports,EA Vancouver,7.525,16.12,2017-09-29
